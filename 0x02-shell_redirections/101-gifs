@@ -1,0 +1,2 @@
+#!/bin/bash
+# List all files with .gif extension find . -type f -name '*.gif'
