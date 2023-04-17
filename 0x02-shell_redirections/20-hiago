@@ -1,0 +1,2 @@
+#!/bin/bash
+# Remove all occurrences of 'c' and 'C' from input echo "Enter input:" | tr -d 'cC'
