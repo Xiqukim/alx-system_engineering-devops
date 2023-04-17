@@ -1,0 +1,2 @@
+#!/bin/bash
+with open('iacta', 'r') as f:    lines = f.readlines()    if len(lines) >= 3:        print(lines[2])
