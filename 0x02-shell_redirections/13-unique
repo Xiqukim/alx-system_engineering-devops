@@ -1,0 +1,2 @@
+#!/bin/bash
+# Read the list of words from stdin, count the frequency of each word, and print any words that appear exactly once grep -oE '\w+' | sort | uniq -u
